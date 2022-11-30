@@ -1,0 +1,14 @@
+created: 20221130141201766
+modified: 20221130141707024
+tags: tiddlywiki插件
+title: 插件展示
+type: text/vnd.tiddlywiki
+
+! 使用教程
+
+# 点开工具栏的小铅笔（编辑按钮）
+# 复制粘贴到您喜欢的地方
+
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TagCloud.js"/>
+
+<$echarts $tiddler="TheBrain2level.js"/>
