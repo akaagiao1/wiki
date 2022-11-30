@@ -36,6 +36,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Tiddlywiki</loc>
+		<lastmod>2022-11-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconBlack.png</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -90,6 +96,18 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:在立远上班的日子</loc>
+		<lastmod>2022-11-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:太记介绍</loc>
+		<lastmod>2022-11-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:太记使用教程</loc>
 		<lastmod>2022-11-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
