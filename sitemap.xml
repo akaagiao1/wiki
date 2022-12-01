@@ -14,7 +14,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:Index</loc>
-		<lastmod>2022-11-30</lastmod>
+		<lastmod>2022-12-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -26,6 +26,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:msc转运费.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:ot框架报价模板</loc>
+		<lastmod>2022-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -67,13 +73,19 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:tiddlywiki插件</loc>
-		<lastmod>2022-11-30</lastmod>
+		<lastmod>2022-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:vps常用代码</loc>
 		<lastmod>2022-11-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:vps教学</loc>
+		<lastmod>2022-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -151,6 +163,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:海运资料</loc>
 		<lastmod>2022-11-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:玩转docker</loc>
+		<lastmod>2022-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
