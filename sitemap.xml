@@ -132,13 +132,19 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:委内瑞拉订舱要求</loc>
-		<lastmod>2022-12-01</lastmod>
+		<lastmod>2022-12-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:工作总结</loc>
 		<lastmod>2022-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:常见的集装箱尺寸</loc>
+		<lastmod>2022-12-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -175,6 +181,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:白板插件</loc>
 		<lastmod>2022-11-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:随想</loc>
+		<lastmod>2022-12-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
